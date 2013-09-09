@@ -7,6 +7,7 @@ Build-Depends: cdbs, debhelper, dh-buildinfo
 
 Package: debathena-thirdparty-languages
 Architecture: all
+X-Debathena-Build-For: precise wheezy
 Depends: cmake,
  python-all-dev,
  python-numpy,
