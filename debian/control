@@ -42,6 +42,8 @@ Depends: cmake,
  scala,
  irb,
  flex,
+ ipython-notebook,
+ libzmq1,
  ${debathena-maybe-gccgo},
  ${misc:Depends}
 Recommends:
