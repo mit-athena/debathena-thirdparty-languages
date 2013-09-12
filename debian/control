@@ -44,6 +44,7 @@ Depends: cmake,
  flex,
  ipython-notebook,
  libzmq1,
+ coq, coqide, proofgeneral,
  ${debathena-maybe-gccgo},
  ${misc:Depends}
 Recommends:
