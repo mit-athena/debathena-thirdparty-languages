@@ -44,14 +44,17 @@ Depends: cmake,
  flex,
  ipython-notebook,
  libzmq1,
- coq, coqide, proofgeneral,
+ coq,
+ coqide,
+ proofgeneral,
  ${debathena-maybe-gccgo},
  ${misc:Depends}
 Recommends:
  mit-scheme,
  mit-scheme-doc,
  eclipse-cdt,
- clisp-dev
+ clisp-dev,
+ proofgeneral-coq
 Description: Debathena metapackage for third-party languages software
  This includes a set of subpackages of commonly-used third-party software
  within the languages domain.  It is intended for cluster machines though usable
