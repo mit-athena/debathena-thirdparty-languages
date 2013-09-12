@@ -1,3 +1,9 @@
+debathena-thirdparty-languages (1.2.3) unstable; urgency=low
+
+  * Add coq, coqide, and proofgeneral for 6.820 (Trac: #1395)
+
+ -- Jonathan Reed <jdreed@mit.edu>  Thu, 12 Sep 2013 12:03:09 -0400
+
 debathena-thirdparty-languages (1.2.2) unstable; urgency=low
 
   * Switch from control.in to control (Trac: #561)
