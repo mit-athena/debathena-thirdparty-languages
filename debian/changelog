@@ -1,3 +1,10 @@
+debathena-thirdparty-languages (1.2.4) unstable; urgency=low
+
+  * Add git-buildpackage configuration
+  * Set source format to 3.0 (native)
+
+ -- Alexander Chernyakhovsky <achernya@mit.edu>  Sun, 29 Sep 2013 05:26:46 -0400
+
 debathena-thirdparty-languages (1.2.3) unstable; urgency=low
 
   * Add coq, coqide, and proofgeneral for 6.820 (Trac: #1395)
